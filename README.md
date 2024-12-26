@@ -1,4 +1,4 @@
-# RecursionPlayground Repository
+# RECURSION PROBLEMS WITH SOLUTION
 
 Welcome to the **RecursionPlayground Repository**! This repository contains a collection of solutions to problems using recursion, a fundamental concept in programming and computer science.
 
